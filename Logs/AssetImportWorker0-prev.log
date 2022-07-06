@@ -1,0 +1,196 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/jhw/Desktop/repository/Test
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+49644
+Successfully changed project path to: /Users/jhw/Desktop/repository/Test
+/Users/jhw/Desktop/repository/Test
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 33.37 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.1f1 (270dd8c3da1c)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/jhw/Desktop/repository/Test/Assets
+GfxDevice: creating device client; threaded=0
+2022-07-05 11:10:59.264 Unity[1125:34809] Color LCD preferred device: AMD Radeon Pro 5300M (high power)
+2022-07-05 11:10:59.264 Unity[1125:34809] Metal devices available: 2
+2022-07-05 11:10:59.264 Unity[1125:34809] 0: AMD Radeon Pro 5300M (high power)
+2022-07-05 11:10:59.264 Unity[1125:34809] 1: Intel(R) UHD Graphics 630 (low power)
+2022-07-05 11:10:59.265 Unity[1125:34809] Using device AMD Radeon Pro 5300M (high power)
+Initializing Metal device caps: AMD Radeon Pro 5300M
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56125
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.000405 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 36.15 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.656 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000524 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 33.27 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.927 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+Refreshing native plugins compatible for Editor in 0.32 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 145.0 MB.
+System memory in use after: 144.9 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2256.
+Total: 3.430945 ms (FindLiveObjects: 0.221550 ms CreateObjectMapping: 0.127277 ms MarkObjects: 2.903789 ms  DeleteObjects: 0.177541 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scripts/zFoxTween.cs
+  artifactKey: Guid(03771d3ef93824ae190ffa28a24e359d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/zFoxTween.cs using Guid(03771d3ef93824ae190ffa28a24e359d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bd8f1e4da1236fde7c2bcc84b88565d') in 0.342833 seconds
+  Import took 0.345999 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000419 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.855 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.29 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1807 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 149.6 MB.
+System memory in use after: 149.7 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2259.
+Total: 3.157330 ms (FindLiveObjects: 0.434324 ms CreateObjectMapping: 0.211750 ms MarkObjects: 2.356418 ms  DeleteObjects: 0.152612 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 545.535497 seconds.
+  path: Assets/Scripts/zFoxTween.cs
+  artifactKey: Guid(03771d3ef93824ae190ffa28a24e359d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/zFoxTween.cs using Guid(03771d3ef93824ae190ffa28a24e359d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94289ad92c117b94f32f14d30b15aff3') in 0.004762 seconds
+  Import took 0.008082 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001005 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.863 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.33 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1807 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 150.0 MB.
+System memory in use after: 150.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2262.
+Total: 1.948865 ms (FindLiveObjects: 0.189081 ms CreateObjectMapping: 0.056301 ms MarkObjects: 1.610492 ms  DeleteObjects: 0.092098 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 585.196819 seconds.
+  path: Assets/Scripts/zFoxTween.cs
+  artifactKey: Guid(03771d3ef93824ae190ffa28a24e359d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/zFoxTween.cs using Guid(03771d3ef93824ae190ffa28a24e359d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4e05d1b9e0c417c0782c358b48c6275') in 0.004558 seconds
+  Import took 0.008643 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001096 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.830 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1807 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 150.4 MB.
+System memory in use after: 150.4 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2265.
+Total: 2.388323 ms (FindLiveObjects: 0.250823 ms CreateObjectMapping: 0.092044 ms MarkObjects: 1.939871 ms  DeleteObjects: 0.103990 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1589.887163 seconds.
+  path: Assets/Scripts/zFoxTween.cs
+  artifactKey: Guid(03771d3ef93824ae190ffa28a24e359d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/zFoxTween.cs using Guid(03771d3ef93824ae190ffa28a24e359d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '349aec0dd034425f9ea9907b6eeb6725') in 0.004706 seconds
+  Import took 0.008218 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001157 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.847 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.26 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1807 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 150.7 MB.
+System memory in use after: 150.7 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2268.
+Total: 2.071734 ms (FindLiveObjects: 0.219606 ms CreateObjectMapping: 0.072539 ms MarkObjects: 1.676563 ms  DeleteObjects: 0.101498 ms)
+
