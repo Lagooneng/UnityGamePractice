@@ -1,16 +1,19 @@
 ﻿<Properties StartupConfiguration="{A513BC8D-6A7D-D6C5-EEBE-D27CF600D276}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/zFoxTween.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Stage_AfterImage.cs">
     <Files>
-      <File FileName="Assets/Scripts/Effect_ParticleChrDir.cs" Line="18" Column="64" />
-      <File FileName="Assets/Scripts/EnemyController.cs" />
-      <File FileName="Assets/Scripts/zFoxTween.cs" Line="222" Column="6" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="22" Column="58" />
+      <File FileName="Assets/Scripts/StageObject_BlockA.cs" />
+      <File FileName="Assets/Scripts/PlayerBodyCollider.cs" Line="16" Column="65" />
+      <File FileName="Assets/Scripts/Stage_AfterImage.cs" Line="42" Column="56" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Test" expanded="True">
-            <Node name="Assets" expanded="True" selected="True">
-              <Node name="Scripts" expanded="True" />
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Stage_AfterImage.cs" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>
@@ -19,7 +22,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="434e35f1-4af7-4422-a094-b36133afc895" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f446f374-67f4-472c-93e8-b6bf16a5f838" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

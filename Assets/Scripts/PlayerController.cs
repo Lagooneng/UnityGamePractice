@@ -19,6 +19,8 @@ public class PlayerController : BaseCharacterController
     [System.NonSerialized] public Vector3 enemyActiveZonePointB;
     [System.NonSerialized] public float groundY = 0.0f;
 
+    [System.NonSerialized] public bool superMode = false;
+
     [System.NonSerialized] public int comboCount = 0;
 
     // 외부 파라미터, 애니메이션 해시 이름

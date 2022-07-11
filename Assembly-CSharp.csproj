@@ -78,9 +78,10 @@
     <Compile Include="Assets/Scripts/Move.cs" />
     <Compile Include="Assets/Scripts/Stage_Shadow.cs" />
     <Compile Include="Assets/Scripts/Stage_AfterImage.cs" />
+    <Compile Include="Assets/Scripts/zFoxTween.cs" />
     <Compile Include="Assets/Scripts/EnemyMain.cs" />
     <Compile Include="Assets/Scripts/PlayerBodyCollider.cs" />
-    <Compile Include="Assets/Scripts/zFoxTween.cs" />
+    <Compile Include="Assets/Scripts/StageObject_BlockA.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
