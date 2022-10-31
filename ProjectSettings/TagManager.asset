@@ -23,6 +23,7 @@ TagManager:
   - DestroySwitch
   - Shadow
   - SubCamera
+  - VRPad
   layers:
   - Default
   - TransparentFX

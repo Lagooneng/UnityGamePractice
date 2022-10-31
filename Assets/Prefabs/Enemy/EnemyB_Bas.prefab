@@ -69,7 +69,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -1311350045
-  m_SortingLayer: 6
+  m_SortingLayer: 7
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 3009130653ee17947bb9236afca7b89b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -141,8 +141,6 @@ GameObject:
   - component: {fileID: 3187469391925478868}
   - component: {fileID: 3187469391925478875}
   - component: {fileID: 3187469391925478874}
-  - component: {fileID: 3187469391925478873}
-  - component: {fileID: 3187469391925478869}
   m_Layer: 11
   m_Name: Collider_Body
   m_TagString: EnemyBody
@@ -207,30 +205,6 @@ CircleCollider2D:
   serializedVersion: 2
   m_Radius: 0.4
 --- !u!114 &3187469391925478874
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3187469391925478879}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7a408363189044561bb8305a6be4e2fe, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &3187469391925478873
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3187469391925478879}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7a408363189044561bb8305a6be4e2fe, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &3187469391925478869
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -313,7 +287,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 2105089581
-  m_SortingLayer: 5
+  m_SortingLayer: 6
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: d5fc4c34b927baa419ed03fb73793a28, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -5460,7 +5434,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -1311350045
-  m_SortingLayer: 6
+  m_SortingLayer: 7
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 4a782c5f160e20c439496347faf2e953, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}

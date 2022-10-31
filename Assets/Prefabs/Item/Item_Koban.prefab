@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 8318225022701082500}
   - component: {fileID: 8318225022701082501}
   - component: {fileID: 8318225022701082522}
+  - component: {fileID: 3376822040701169524}
   m_Layer: 13
   m_Name: Item_Koban
   m_TagString: Item
@@ -127,3 +128,17 @@ CircleCollider2D:
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
   m_Radius: 0.32
+--- !u!114 &3376822040701169524
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8318225022701082502}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1372e85b72b843549efe29bd597499f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  type: 0
+  uid: (non)

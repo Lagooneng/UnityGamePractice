@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/StageA.unity
+- path: Assets/Scenes/StageB_Puzzle_D1.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
